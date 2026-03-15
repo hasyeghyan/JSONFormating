@@ -1,0 +1,27 @@
+[
+ {
+  "title": "Mathematics",
+  "credits": 4,
+  "mandatory": "Yes"
+ },
+ {
+  "title": "Physics",
+  "credits": 3,
+  "mandatory": "Yes"
+ },
+ {
+  "title": "History",
+  "credits": 2,
+  "mandatory": "No"
+ },
+ {
+  "title": "Art",
+  "credits": 2,
+  "mandatory": "No"
+ },
+ {
+  "title": "Programming",
+  "credits": 5,
+  "mandatory": "Yes"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "name": "Hasmik",
+  "age": 20,
+  "gpa": 19
+ },
+ {
+  "name": "Gurgen",
+  "age": 18,
+  "gpa": 19
+ },
+ {
+  "name": "Miqayel",
+  "age": 25,
+  "gpa": 20
+ },
+ {
+  "name": "Narek",
+  "age": 23,
+  "gpa": 15
+ },
+ {
+  "name": "Levon",
+  "age": 21,
+  "gpa": 14
+ }
+]
